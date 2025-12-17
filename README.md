@@ -8,7 +8,7 @@ The player chooses the number of questions, difficulty level, and operation type
 The game generates random math questions, checks answers instantly, and shows feedback with color effects.
 At the end, a final result is displayed showing correct and wrong answers along with a Pass / Fail status.
 
-# Features:
+## Features:
 
 Multiple difficulty levels
 
